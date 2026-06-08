@@ -35,6 +35,7 @@ export default defineConfig({
             { text: '法國長棍麵包', link: '/西式/法國長棍麵包' },
             { text: '4步驟簡易長棍麵包', link: '/西式/4步驟簡易長棍麵包' },
             { text: '西班牙海鮮燉飯', link: '/西式/西班牙海鮮燉飯_主廚秘訣' },
+            { text: '馬賽魚湯 Bouillabaisse', link: '/西式/馬賽魚湯_Bouillabaisse' },
           ]
         }
       ],
