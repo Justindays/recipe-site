@@ -24,6 +24,7 @@ export default defineConfig({
             { text: '分類首頁', link: '/中式/' },
             { text: '特製蔥鹽醬', link: '/中式/特製蔥鹽醬' },
             { text: '魷魚螺肉蒜', link: '/中式/魷魚螺肉蒜' },
+            { text: '眷村涼麵', link: '/中式/眷村涼麵' },
           ]
         }
       ],
