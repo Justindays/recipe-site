@@ -37,6 +37,7 @@ export default defineConfig({
           items: [
             { text: '韓式小菜大集合', link: '/韓式/韓式小菜大集合' },
             { text: '韓式泡菜鍋', link: '/韓式/韓式泡菜鍋_孫榮Kai' },
+            { text: '青蔥小菜大全', link: '/韓式/青蔥小菜大全' },
           ]
         }
       ],
